@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "Stack_using_Array.C": "cpp",
+        "Stack_using_Linked-List.C": "cpp",
+        "Queue_Using_Array.C": "cpp",
+        "Queue_using_Linked-List.C": "cpp",
+        "circular_Queue.C": "cpp",
+        "Double_ended_Queue_Using_Array.C": "cpp",
+        "Bubble_Sort.C": "cpp"
+    }
+}
